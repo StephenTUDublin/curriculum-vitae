@@ -1,2 +1,2 @@
-# curriculum-vitae
+# Curriculum-vitae
 Website for employers.
